@@ -1,0 +1,15 @@
+{
+  "appId": "com.zen.app",
+  "appName": "Zen",
+  "webDir": "www",
+  "server": {
+    "url": "https://chat.z.ai/",
+    "cleartext": true,
+    "androidScheme": "https"
+  },
+  "android": {
+    "allowMixedContent": true,
+    "captureInput": true,
+    "webContentsDebuggingEnabled": false
+  }
+}
